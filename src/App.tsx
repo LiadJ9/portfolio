@@ -6,7 +6,7 @@ import mkdEn from "./pageContentEn";
 const App = () => {
   return (
     <div className="flex w-full justify-center p-5">
-      <div className="flex h-full w-1/2 flex-col gap-2 rounded-3xl bg-amber-50">
+      <div className="flex h-full w-full flex-col gap-2 rounded-3xl bg-amber-50 lg:w-1/2">
         <img src={logoSrc} className="logo" alt="Liad manteka logo" />
 
         <div className="space-y-2 p-5">

@@ -5,7 +5,6 @@ import { ghPages } from "vite-plugin-gh-pages";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/portfolio/",
   plugins: [react(), tailwindcss(), ghPages()],
   server: {
     port: 4000,

@@ -20,7 +20,7 @@ I also dabble in infrastrcture and backend development, mostly working with lamb
 
 ### 🌍 [Planets](https://liadj9.github.io/three-js-planets/)
 
-![Three.js planets](${import.meta.env.BASE_URL}public/planets.webp)
+![Three.js planets](${import.meta.env.BASE_URL}planets.webp)
 
 A small **Three.js** scene I built to experiment with 3D rendering on the web.
 
@@ -36,7 +36,7 @@ A small **Three.js** scene I built to experiment with 3D rendering on the web.
 
 ### 💬 [Phoenix/Elixir Messenger](https://pheonix-liveview-local-messager.gigalixirapp.com/chat/0423a435-bff0-47d8-afeb-866041c739f6)
 
-![Phoenix messenger](${import.meta.env.BASE_URL}public/pheonix_msg.webp)
+![Phoenix messenger](${import.meta.env.BASE_URL}pheonix_msg.webp)
 
 A real-time messaging app built with **Phoenix LiveView**, supporting multiple users and fun slash commands like '/clock' and '/weather'.
 
